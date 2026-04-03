@@ -19239,7 +19239,14 @@
     "id": "synaptic-view",
     "name": "Synaptic View",
     "author": "Yongmini",
-    "description": "A dynamic control center for your vault. Unify hubs, notes, tasks, periodic notes, and web resources with intuitive buttons. Replace new tab for instant access.",
+    "descripion": "A dynamic control center for your vault. Unify hubs, notes, tasks, periodic notes, and web resources with intuitive buttons. Replace new tab for instant access.",
     "repo": "especialkim/obsidian-synaptic-view"
+  },
+  {
+    "id": "catalog-generation",
+    "name": "目录自动生成",
+    "description": "每次打开仓库时，自动扫描所有文件夹和 Markdown 文件，生成或更新目录索引文件。",
+    "author": "jerryshou",
+    "repo": "jerryshou/catalog-generation"
   }
 ]
